@@ -3,36 +3,28 @@
   <!--Custom-->
   <string name="app_name">Linphone</string>
   <string name="service_name">Servizio Linphone</string>
-  <string name="addressbook_label">Linphone</string>
-  <string name="notification_title">Linphone</string>
-  <string name="wait_dialog_text">Avvio</string>
-  <string name="tunnel_host"></string>
-  <string name="about_version">Linphone Android %s</string>
-  <string name="about_liblinphone_version">Linphone Core %s</string>
-  <string name="sync_account_name">contatti linphone</string>
+    <string name="about_version">Linphone Android %s</string>
+    <string name="sync_account_name">contatti linphone</string>
   <!--Notifications-->
   <!--Common-->
   <string name="username">Nome utente</string>
   <string name="userid">ID utente (facoltativo)</string>
   <string name="phone_number">Numero di telefono</string>
-  <string name="display_name">Nome visualizzato</string>
-  <string name="password">Password</string>
+    <string name="password">Password</string>
   <string name="confirm_password">Conferma password</string>
   <string name="domain">Dominio</string>
   <string name="remote_provisioning_url">URL</string>
   <string name="email">E-mail</string>
   <string name="delete_text">Sei sicuro di voler cancellare la tua selezione?</string>
   <string name="delete">Cancella</string>
-  <string name="retry">Riprova</string>
-  <string name="cancel">Annulla</string>
+    <string name="cancel">Annulla</string>
   <string name="accept">Accetta</string>
   <string name="open">Apri</string>
   <string name="continue_text">Continua</string>
   <string name="about">Informazioni</string>
   <string name="deny">Nega</string>
   <string name="no_account">Nessun account configurato</string>
-  <string name="search">Ricerca</string>
-  <string name="outgoing">Inviate</string>
+    <string name="outgoing">Inviate</string>
   <string name="incoming">Ricevute</string>
   <string name="missed">Perse</string>
   <string name="settings">Impostazioni</string>
@@ -42,8 +34,7 @@
   <string name="link">Collega</string>
   <string name="link_account_popup">Vuoi collegare l\'account %s al tuo numero di telefono?</string>
   <string name="maybe_later">Forse più tardi</string>
-  <string name="later">Dopo</string>
-  <string name="no">No</string>
+    <string name="no">No</string>
   <string name="ok">OK</string>
   <string name="yes">Si</string>
   <string name="link_account">Collega il tuo account</string>
@@ -55,14 +46,12 @@
   <string name="assistant">Assistente</string>
   <string name="assistant_create_account">Creare un account</string>
   <string name="assistant_link_account">Collega l\'account</string>
-  <string name="assistant_continue">Continua</string>
-  <string name="assistant_activate">Attiva il tuo account</string>
+    <string name="assistant_activate">Attiva il tuo account</string>
   <string name="assistant_finish">Completa la configurazione</string>
   <string name="assistant_validate_account_1">Il tuo account è stato creato. Controlla le tue e-mail per convalidare il tuo account:</string>
   <string name="assistant_validate_account_2">Una volta terminato, torna qui e fai clic sul pulsante.</string>
   <string name="assistant_welcome_desc">Questo assistente ti aiuterà a configurare e utilizzare il tuo account SIP.</string>
-  <string name="assistant_linphone_login_desc">Inserisci il tuo nome utente e la password dell\'account Linphone</string>
-  <string name="assistant_login_desc">Inserisci il tuo nome utente e la password con il tuo dominio SIP</string>
+    <string name="assistant_login_desc">Inserisci il tuo nome utente e la password con il tuo dominio SIP</string>
   <string name="assistant_remote_provisioning_desc">Inserisci l\'URL di provisioning</string>
   <string name="transport">Trasporto</string>
   <string name="assistant_create_account_phone_number_address">Il tuo indirizzo SIP è</string>
@@ -88,28 +77,21 @@
   <string name="assistant_codec_down_question">Accetti di scaricare OpenH264 Video Codec fornito da Cisco Systems, Inc.?</string>
   <string name="assistant_codec_downloading">Download di OpenH264 Video Codec fornito da Cisco Systems, Inc.</string>
   <string name="assistant_openh264_downloading">Download di OpenH264</string>
-  <string name="assistant_openh264_restart">Prima di poter utilizzare il codec OpenH264 è necessario riavviare %s.</string>
-  <string name="assistant_openh264_error">Spiacenti, si è verificato un errore.</string>
+    <string name="assistant_openh264_error">Spiacenti, si è verificato un errore.</string>
   <string name="assistant_codec_downloaded">OpenH264 Video Codec fornito da Cisco Systems, Inc. scaricato.</string>
   <string name="wizard_failed">Si è verificato un errore, riprova più tardi.</string>
   <string name="wizard_server_unavailable">Server non raggiungibile, verifica la connessione di rete.</string>
-  <string name="wizard_username_unavailable">Questo nome utente è già in uso.</string>
-  <string name="assistant_phone_number_unavailable">Questo numero di telefono è già utilizzato.\r\nInserisci un numero diverso.\r\nPuoi eliminare il tuo account esistente se desideri riutilizzare il tuo numero di telefono.</string>
+    <string name="assistant_phone_number_unavailable">Questo numero di telefono è già utilizzato.\r\nInserisci un numero diverso.\r\nPuoi eliminare il tuo account esistente se desideri riutilizzare il tuo numero di telefono.</string>
   <string name="wizard_username_incorrect">Il tuo nome utente non è valido.</string>
-  <string name="assistant_phone_number_incorrect">Il tuo numero di telefono non è valido.</string>
-  <string name="wizard_email_incorrect">La tua e-mail non è valida.</string>
-  <string name="wizard_password_incorrect">La tua password non è valida</string>
+    <string name="wizard_password_incorrect">La tua password non è valida</string>
   <string name="wizard_passwords_unmatched">Le password non corrispondono.</string>
-  <string name="setup_confirm_username">Il tuo nome utente sarà %s.\r\n\r\nPotrebbe differire dall\'input per soddisfare i requisiti.\r\nAccetti?</string>
-  <string name="first_launch_no_login_password">Inserisci il tuo login e password</string>
-  <string name="forgot_password">Password dimenticata?</string>
-  <string name="assistant_choose_country">Scegli un paese</string>
+    <string name="first_launch_no_login_password">Inserisci il tuo login e password</string>
+    <string name="assistant_choose_country">Scegli un paese</string>
   <string name="select_your_country">Seleziona il tuo paese</string>
   <string name="country_code">(%s)</string>
   <string name="use_username_instead_or_phone_number">Usa un nome utente (facoltativo)</string>
   <string name="use_email_for_validation">Utilizza l\'indirizzo e-mail per la convalida dell\'account</string>
-  <string name="login_with_username">Usa il tuo nome utente e password al posto del tuo numero di telefono</string>
-  <string name="phone_number_info_title">Per cosa verrà utilizzato il mio numero di telefono?</string>
+    <string name="phone_number_info_title">Per cosa verrà utilizzato il mio numero di telefono?</string>
   <string name="phone_number_info_content">\nGrazie al tuo numero di telefono, i tuoi amici ti troveranno più facilmente.\n\nVedrai nella tua rubrica chi usa Linphone e i tuoi amici sapranno che possono contattarti anche su Linphone.\n</string>
   <string name="phone_number_link_info_content">\nI tuoi amici ti troveranno più facilmente se colleghi il tuo account al tuo numero di telefono\n\nSi vedrai nella tua rubrica che sta usando Linphone e i tuoi amici sapranno che possono contattarti anche su Linphone.\n</string>
   <string name="phone_number_link_info_content_already_account">Puoi utilizzare il tuo numero di telefono solo con un account Linphone.\n\nSe avevi già collegato il tuo numero a un altro account ma preferisci utilizzare questo, collegalo semplicemente ora e il tuo numero verrà automaticamente spostato su questo account.</string>
@@ -118,9 +100,7 @@
   <string name="account_already_exist">Account già esistente</string>
   <string name="phone_number_not_exist">Questo account non esiste</string>
   <string name="invalid_username">Nome utente non valido</string>
-  <string name="invalid_domain">Dominio non valido</string>
-  <string name="invalid_route">Instradamento non valido</string>
-  <string name="invalid_display_name">Nome visualizzato non valido</string>
+    <string name="invalid_display_name">Nome visualizzato non valido</string>
   <string name="username_too_short">Nome utente troppo corto</string>
   <string name="username_too_long">Nome utente troppo lungo</string>
   <string name="username_invalid_size">Lunghezza del nome utente non valida</string>
@@ -130,8 +110,7 @@
   <string name="password_too_short">Password troppo corta</string>
   <string name="password_too_long">Password troppo lunga</string>
   <string name="request_failed">Impossibile interrogare il server. Per favore riprova più tardi</string>
-  <string name="transport_unsupported">Trasporto non supportato</string>
-  <string name="country_code_invalid">Codice del paese non valido</string>
+    <string name="country_code_invalid">Codice del paese non valido</string>
   <!--In-app-->
   <string name="inapp">In-app</string>
   <string name="inapp_notification_title">Acquisto in-app</string>
@@ -142,46 +121,26 @@
   <!--History-->
   <string name="no_call_history">Nessuna chiamata nella tua cronologia</string>
   <string name="no_missed_call_history">Nessuna chiamata persa nella tua cronologia</string>
-  <string name="delete_history_log">Vuoi cancellare il registro delle chiamate selezionato?</string>
-  <string name="today">Oggi</string>
+    <string name="today">Oggi</string>
   <string name="yesterday">Ieri</string>
   <!--Contacts-->
   <string name="no_contact">Nessun contatto nella tua rubrica.</string>
   <string name="no_sip_contact">Nessun contatto SIP nella tua rubrica.</string>
-  <string name="delete_contacts">Vuoi eliminare i contatti selezionati?</string>
-  <string name="delete_contact">Vuoi eliminare il contatto selezionato?</string>
-  <string name="sip_address">Indirizzo SIP</string>
+    <string name="sip_address">Indirizzo SIP</string>
   <string name="contact_first_name">Nome</string>
   <string name="contact_last_name">Cognome</string>
   <string name="contact_organization">Organizzazione</string>
   <!--Chat-->
   <string name="no_chat_history">Nessuna conversazione</string>
-  <string name="delete_conversation">Vuoi eliminare la conversazione selezionata?</string>
-  <string name="delete_message">Vuoi eliminare il messaggio selezionato?</string>
-  <string name="share_picture_size_small">Piccolo</string>
-  <string name="share_picture_size_medium">Medio</string>
-  <string name="share_picture_size_large">Grande</string>
-  <string name="share_picture_size_real">Dimensione reale</string>
-  <string name="text_copied_to_clipboard">Testo copiato negli appunti</string>
-  <string name="copy_text">Copia testo</string>
+    <string name="copy_text">Copia testo</string>
   <string name="image_picker_title">Seleziona la fonte</string>
-  <string name="image_saved">Immagine salvata</string>
-  <string name="image_not_saved">Errore, immagine non salvata</string>
-  <string name="image_transfert_error">Si è verificato un errore durante il trasferimento del file</string>
-  <string name="message_not_encrypted">Questo messaggio non è cifrato</string>
-  <string name="message_cant_be_decrypted">Hai ricevuto un messaggio crittografato che non sei in grado di decodificare da %s\nDevi chiamare il tuo corrispondente per scambiare le tue chiavi ZRTP se vuoi decodificare i messaggi futuri che riceverai.</string>
+    <string name="message_cant_be_decrypted">Hai ricevuto un messaggio crittografato che non sei in grado di decodificare da %s\nDevi chiamare il tuo corrispondente per scambiare le tue chiavi ZRTP se vuoi decodificare i messaggi futuri che riceverai.</string>
   <string name="message_cant_be_decrypted_notif">Non sei in grado di decifrare questo messaggio.</string>
-  <string name="lime_not_verified">Stai tentando di inviare un messaggio utilizzando LIME a un contatto non verificato da ZRTP.\nSi prega di chiamare questo contatto e verificare la sua chiave ZRTP prima di inviare i messaggi.</string>
-  <string name="processing_image">L\'elaborazione dell\'immagine può richiedere alcuni secondi a seconda delle dimensioni del file</string>
-  <string name="displayed">Leggi</string>
+    <string name="displayed">Leggi</string>
   <string name="delivered">Consegnato</string>
-  <string name="undelivered">Non consegnato</string>
-  <string name="sent">Inviato</string>
+    <string name="sent">Inviato</string>
   <string name="resend">Inviare di nuovo</string>
-  <string name="error_opening_file">Si è verificato un errore durante l\'apertura di questo file.</string>
-  <string name="conversation_information">Info</string>
-  <string name="administrator">Admin</string>
-  <string name="conversation_subject_hint">Assegna un nome al gruppo</string>
+    <string name="conversation_subject_hint">Assegna un nome al gruppo</string>
   <string name="chat_room_infos_title">Info</string>
   <string name="chat_room_infos_admin">Admin</string>
   <string name="chat_room_participants">Participanti</string>
@@ -207,8 +166,7 @@
   <string name="group_chat_room_devices">Dispositivi di conversazione</string>
   <string name="add_to_contacts">Aggiungi ai contatti</string>
   <!--Status Bar-->
-  <string name="voicemail_unread">messaggi non letti</string>
-  <!--Side Menu-->
+    <!--Side Menu-->
   <string name="menu_assistant">Assistente</string>
   <string name="menu_settings">Impostazioni</string>
   <string name="menu_about">Informazioni</string>
@@ -220,10 +178,7 @@
   <string name="no_current_call">Nessuna chiamata attiva</string>
   <string name="call_paused_by_remote">Il chiamante ha messo in pausa la chiamata</string>
   <string name="couldnt_accept_call">Si è verificato un errore durante l\'accettazione della chiamata</string>
-  <string name="zrtp_notification_title">SAS</string>
-  <string name="zrtp_notification_message">Conferma il precedente codice SAS con il tuo corrispondente</string>
-  <string name="unknown_incoming_call_name">Sconosciuto</string>
-  <string name="call_stats_audio">Audio</string>
+    <string name="call_stats_audio">Audio</string>
   <string name="call_stats_video">Video</string>
   <string name="call_stats_codec">Codec:</string>
   <string name="call_stats_ip">Famiglia IP:</string>
@@ -250,27 +205,23 @@
   <string name="incall_notif_active">Chiamata audio in corso</string>
   <string name="incall_notif_paused">Chiamata in pausa</string>
   <string name="incall_notif_video">Chiamata video in corso</string>
-  <string name="notification_started">avviato</string>
-  <string name="unread_messages">%i messaggi non letti</string>
+    <string name="unread_messages">%i messaggi non letti</string>
   <string name="missed_calls_notif_title">Chiamata persa</string>
   <string name="missed_calls_notif_body">%i chiamate perse</string>
   <!--Errors-->
   <string name="skipable_error_service_not_ready">Attenzione: il servizio non è pronto</string>
   <string name="error">Errore</string>
   <string name="file_transfer_error">Errore di trasferimento file</string>
-  <string name="warning_wrong_destination_address">Impossibile creare l\'indirizzo di destinazione da %s</string>
-  <string name="error_unknown">Errore sconosciuto</string>
+    <string name="error_unknown">Errore sconosciuto</string>
   <string name="error_call_declined">Chiamata rifiutata</string>
   <string name="error_user_busy">Utente occupato</string>
   <string name="error_user_not_found">Utente non trovato</string>
   <string name="error_incompatible_media">Parametri multimediali incompatibili</string>
   <string name="error_low_bandwidth">Il chiamante ha una larghezza di banda ridotta, il video non può essere avviato</string>
   <string name="error_network_unreachable">La rete non è raggiungibile</string>
-  <string name="error_bad_credentials">Credenziali errate</string>
-  <string name="error_unauthorized">Non autorizzato</string>
+    <string name="error_unauthorized">Non autorizzato</string>
   <string name="error_io_error">Errore di rete</string>
-  <string name="download_image_failed">Scaricamento fallito. Controlla la connessione di rete o riprova più tardi.</string>
-  <string name="remote_provisioning_again_title">Provisioning remoto</string>
+    <string name="remote_provisioning_again_title">Provisioning remoto</string>
   <string name="remote_provisioning_again_message">Vuoi cambiare l\'URI di provisioning?</string>
   <!--Account Settings-->
   <string name="pref_sipaccount">Account SIP</string>
@@ -281,8 +232,7 @@
   <string name="pref_passwd">Password*</string>
   <string name="pref_username">Nome utente*</string>
   <string name="pref_enable_outbound_proxy">Outbound proxy</string>
-  <string name="pref_help_proxy">Nome host o indirizzo IP del proxy SIP (facoltativo)</string>
-  <string name="pref_help_outbound_proxy">Instrada tutte le chiamate tramite il proxy SIP</string>
+    <string name="pref_help_outbound_proxy">Instrada tutte le chiamate tramite il proxy SIP</string>
   <string name="pref_help_username">Esempio: john se il tuo account è john@sip.example.org</string>
   <string name="pref_help_domain">sip.example.org se il tuo account è john@sip.example.org</string>
   <string name="pref_help_password">Devi reinserire la tua password se modifichi il tuo nome utente e / o il dominio</string>
@@ -303,14 +253,11 @@
   <string name="pref_delete_account">Elimina questo account</string>
   <string name="pref_change_password">Cambia la password</string>
   <string name="pref_default_account">Usa come predefinito</string>
-  <string name="pref_password_changed">Password cambiata</string>
-  <string name="pref_proxy_push_notif">Consenti notifica push</string>
+    <string name="pref_proxy_push_notif">Consenti notifica push</string>
   <!--Settings-->
   <string name="pref_sipaccounts">Account SIP</string>
   <string name="default_account_flag">Account predefinito</string>
-  <string name="pref_add_account">Aggiungi account</string>
-  <string name="pref_in_app_store">In-app Store</string>
-  <string name="pref_tunnel_title">Tunnel</string>
+    <string name="pref_tunnel_title">Tunnel</string>
   <string name="pref_tunnel_host">Nome host</string>
   <string name="pref_tunnel_port">Porta</string>
   <string name="pref_tunnel_mode">Modalità</string>
@@ -341,8 +288,7 @@
   <string name="pref_video_title">Video</string>
   <string name="pref_overlay">Sovrapposizione video</string>
   <string name="pref_overlay_summary">Mostra video di chiamata sul display quando ci si trova all\'esterno dell\'applicazione</string>
-  <string name="pref_video_use_front_camera_title">Usa la fotocamera frontale</string>
-  <string name="pref_video_initiate_call_with_video_title">Inizia videochiamate</string>
+    <string name="pref_video_initiate_call_with_video_title">Inizia videochiamate</string>
   <string name="pref_video_initiate_call_with_video">Invia sempre richieste video</string>
   <string name="pref_video_automatically_accept_video_title">Accetta le richieste di video in arrivo</string>
   <string name="pref_video_automatically_accept_video">Accetta sempre richieste video</string>
@@ -350,55 +296,38 @@
   <string name="pref_preferred_video_size">Dimensione preferita del video</string>
   <string name="pref_preferred_fps">FPS preferito</string>
   <string name="pref_bandwidth_limit">Limite di larghezza di banda in kbits/s</string>
-  <string name="pref_video_codecs_title">Codec</string>
-  <!--Call settings-->
+    <!--Call settings-->
   <string name="pref_call_title">Chiamata</string>
   <string name="pref_device_ringtone">Usa la suoneria del dispositivo</string>
   <string name="pref_auto_answer">Rispondere automaticamente alle chiamate in arrivo</string>
   <string name="pref_auto_answer_time">Tempo di risposta automatica (in millisecondi)</string>
   <string name="pref_rfc2833_dtmf">Invia DTMF in-band (RFC2833)</string>
   <string name="pref_sipinfo_dtmf">Invia DTMF out-band (SIP INFO)</string>
-  <string name="pref_call_timeout_title">Timeout della chiamata (in secondi)</string>
-  <string name="pref_voice_mail">URI della segreteria telefonica</string>
-  <string name="pref_dialer_call">Utilizza Linphone come app telefono predefinita</string>
-  <!--Chat settings-->
+    <string name="pref_voice_mail">URI della segreteria telefonica</string>
+    <!--Chat settings-->
   <string name="pref_chat_title">Chat</string>
   <string name="pref_image_sharing_server_title">Server di condivisione</string>
   <string name="pref_image_sharing_server_desc">Non modificare se non sai cosa stai facendo!</string>
-  <string name="pref_use_lime_encryption">Usa la cifratura LIME</string>
-  <string name="lime_encryption_entry_disabled">Disabilitato</string>
-  <string name="lime_encryption_entry_mandatory">Obbligatorio</string>
-  <string name="lime_encryption_entry_preferred">Preferito</string>
-  <string name="lime_encryption_enable_zrtp">LIME richiede la cifratura ZRTP.\nAttivando LIME si attiva automaticamente la cifratura multimediale ZRTP.</string>
-  <!--Network settings-->
+    <!--Network settings-->
   <string name="pref_network_title">Rete</string>
   <string name="pref_wifi_only">Usa solo Wi-Fi</string>
-  <string name="pref_doze_mode">Modalità dormiente</string>
-  <string name="pref_stun_server">Server STUN / TURN</string>
+    <string name="pref_stun_server">Server STUN / TURN</string>
   <string name="pref_ice_enable">Abilita ICE</string>
   <string name="pref_turn_enable">Abilita TURN</string>
   <string name="pref_turn_username_title">Nome utente STUN / TURN (facoltativo)</string>
   <string name="pref_turn_passwd_title">Password STUN / TURN (facoltativa)</string>
-  <string name="pref_upnp_enable">Abilita UPNP</string>
-  <string name="pref_transport_use_random_ports">Usa porte casuali</string>
+    <string name="pref_transport_use_random_ports">Usa porte casuali</string>
   <string name="pref_sip_port_title">Porta SIP da usare</string>
-  <string name="pref_video_port_title">Porta o intervallo di porte video</string>
-  <string name="pref_audio_port_title">Porta o intervallo di porte audio</string>
-  <string name="pref_video_port_description">Porta o intervallo di porte video (min-max)</string>
-  <string name="pref_audio_port_description">Porta o intervallo di porte audio (min-max)</string>
-  <string name="pref_media_encryption">Cifratura multimediale</string>
+    <string name="pref_media_encryption">Cifratura multimediale</string>
   <string name="pref_push_notification">Abilita le notifiche push</string>
   <string name="pref_ipv6_title">Consenti IPv6</string>
   <!--Advanced settings-->
   <string name="pref_advanced_title">Avanzate</string>
-  <string name="pref_debug_title">Debug</string>
-  <string name="pref_debug">Debug</string>
+    <string name="pref_debug">Debug</string>
   <string name="pref_java_debug">Utilizza il Java logger</string>
   <string name="pref_friendlist_subscribe">Iscrizione ad una lista di amici</string>
   <string name="pref_background_mode">Modalità Background</string>
-  <string name="pref_animation_enable_title">Abilita animazioni</string>
-  <string name="pref_service_notification">Abilita notifica di servizio</string>
-  <string name="pref_autostart">Parti dell\'avvio</string>
+    <string name="pref_autostart">Parti dell\'avvio</string>
   <string name="pref_incoming_call_timeout_title">Riaggancio delle chiamate in entrata (in secondi)</string>
   <string name="pref_remote_provisioning_title">Provisioning remoto</string>
   <string name="pref_android_app_settings_title">Impostazioni dell\'app Android</string>
@@ -407,12 +336,7 @@
   <string name="pref_display_name_title">Nome visualizzato</string>
   <string name="pref_user_name_title">Nome utente</string>
   <!--Audio hack settings-->
-  <string name="pref_audio_hacks_title">Hack audio</string>
-  <string name="pref_audio_use_specific_mode_title">Utilizza una specifica modifica</string>
-  <string name="pref_audio_use_specific_mode_summary">0=MODE_NORMAL (default), 2=MODE_IN_CALL</string>
-  <string name="pref_audio_hacks_use_routing_api_title">Usa la modifica delle API di instradamento</string>
-  <string name="pref_audio_hacks_use_galaxys_hack_title">Utilizza le modifiche audio per Galaxy S</string>
-  <!--Device specifics-->
+    <!--Device specifics-->
   <string name="device_power_saver_dialog_button_go_to_settings">Impostazioni</string>
   <string name="device_power_saver_dialog_button_later">Dopo</string>
   <!--Debug popup-->
@@ -434,23 +358,16 @@
   <string name="content_description_call">Chiamata</string>
   <string name="content_description_backspace">Cancella</string>
   <string name="content_description_chat">Chat</string>
-  <string name="content_description_dial_back">Richiama</string>
-  <string name="content_description_dialer_back">Torna al tastierino</string>
-  <string name="content_description_contact_picture">Immagine del contatto</string>
-  <string name="content_description_send_message">Invia messaggio</string>
+    <string name="content_description_dialer_back">Torna al tastierino</string>
+    <string name="content_description_send_message">Invia messaggio</string>
   <string name="content_description_detail">Dettagli</string>
   <string name="content_description_delete">Cancella</string>
   <string name="content_description_add">Aggiungi chiamata</string>
   <string name="content_description_new_discussion">Nuova discussione</string>
-  <string name="content_description_search">Ricerca</string>
-  <string name="content_description_search_contact">Cerca contatto</string>
-  <string name="content_description_search_country">Cerca paese</string>
-  <string name="content_description_all_contacts">Tutti i contatti</string>
+    <string name="content_description_all_contacts">Tutti i contatti</string>
   <string name="content_description_linphone_contacts">Contatti Linphone</string>
   <string name="content_description_call_direction">Direzione della chiamata</string>
-  <string name="content_description_all_calls">Tutte le chiamate</string>
-  <string name="content_description_missed_calls">Chiamate perse</string>
-  <string name="content_description_switch_video">Cambia video</string>
+    <string name="content_description_switch_video">Cambia video</string>
   <string name="content_description_add_call">Aggiungi chiamata</string>
   <string name="content_description_pause">Pausa</string>
   <string name="content_description_numpad">Tastierino numerico</string>

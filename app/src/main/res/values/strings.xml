@@ -2,19 +2,19 @@
 <resources>
 
     <!-- Custom -->
-    <string name="app_name">Linphone</string>
-    <string name="service_name">Linphone Service</string>
-    <string name="addressbook_label">Linphone</string>
-    <string name="notification_title">Linphone</string>
+    <string name="app_name">CloudXI</string>
+    <string name="service_name">CloudXI Service</string>
+    <string name="addressbook_label">CloudXI</string>
+    <string name="notification_title">CloudXI</string>
     <string name="wait_dialog_text">Starting up</string>
     <string name="notification_registered">%s connected</string>
     <string name="notification_register_failure">%s failed to connect</string>
     <string name="tunnel_host"></string>
-    <string name="about_version">Linphone Android %s</string>
-    <string name="about_liblinphone_version">Linphone Core %s</string>
-    <string name="about_liblinphone_sdk_version">Linphone SDK %s</string>
+    <string name="about_version">CloudXI Android %s</string>
+    <string name="about_liblinphone_version">CloudXI Core %s</string>
+    <string name="about_liblinphone_sdk_version">CloudXI SDK %s</string>
     <string name="about_privacy_policy">Visit our privacy policy</string>
-    <string name="sync_account_name">linphone contacts</string>
+    <string name="sync_account_name">CloudXI contacts</string>
 
     <!-- Notifications -->
     <string name="notification_reply_label">Reply</string>
@@ -81,12 +81,12 @@
     <string name="assistant_validate_account_2">Once it is done, come back here and click on the button.</string>
     <string name="assistant_welcome_desc">This assistant will help you configure and use your SIP account.</string>
     <string name="assistant_linphone_login_desc">Please enter your username and password of Linphone account</string>
-    <string name="assistant_login_desc">Please enter your username and password with your SIP domain</string>
+    <string name="assistant_login_desc">Please enter your username and password</string>
     <string name="assistant_remote_provisioning_desc">Please provide your provisioning URL</string>
     <string name="transport">Transport</string>
     <string name="assistant_create_account_phone_number_address">Your SIP address is</string>
     <string name="assistant_login_linphone">Use Linphone account</string>
-    <string name="assistant_login_generic">Use SIP account</string>
+    <string name="assistant_login_generic">Add CloudXI Account</string>
     <string name="assistant_remote_provisioning">Fetch remote configuration</string>
     <string name="assistant_create_account_part_1">Please confirm your country code and enter your phone number</string>
     <string name="assistant_create_account_part_2">We have sent you a SMS with a validation code to your phone number:</string>

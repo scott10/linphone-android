@@ -3,15 +3,8 @@
   <!--Custom-->
   <string name="app_name">Linphone</string>
   <string name="service_name">Linphone-tjänst</string>
-  <string name="addressbook_label">Linphone</string>
-  <string name="notification_title">Linphone</string>
-  <string name="wait_dialog_text">Startar upp</string>
-  <string name="notification_registered">%s ansluten</string>
-  <string name="notification_register_failure">%s kunde inte ansluta</string>
-  <string name="tunnel_host"></string>
-  <string name="about_version">Linphone Android %s</string>
-  <string name="about_liblinphone_version">Linphone Core %s</string>
-  <string name="about_liblinphone_sdk_version">Linphone SDK %s</string>
+    <string name="about_version">Linphone Android %s</string>
+    <string name="about_liblinphone_sdk_version">Linphone SDK %s</string>
   <string name="about_privacy_policy">Besök vår sekretesspolicy</string>
   <string name="sync_account_name">linphone-kontakter</string>
   <!--Notifications-->
@@ -26,24 +19,21 @@
   <string name="phone_number">Telefonnummer</string>
   <string name="confirmation_code">Bekräftelsekod</string>
   <string name="international_prefix">Internationellt telefonnummer prefix</string>
-  <string name="display_name">Visningsnamn</string>
-  <string name="password">Lösenord</string>
+    <string name="password">Lösenord</string>
   <string name="confirm_password">Lösenordsbekräftelse</string>
   <string name="domain">Domän</string>
   <string name="remote_provisioning_url">Webbadress</string>
   <string name="email">E-post</string>
   <string name="delete_text">Är du säker på att du vill ta bort val?</string>
   <string name="delete">Ta bort</string>
-  <string name="retry">Försök igen</string>
-  <string name="cancel">Avbryt</string>
+    <string name="cancel">Avbryt</string>
   <string name="accept">Acceptera</string>
   <string name="open">Öppna</string>
   <string name="continue_text">Fortsätt</string>
   <string name="about">Om</string>
   <string name="deny">Neka</string>
   <string name="no_account">Inget konto konfigurerat</string>
-  <string name="search">Sök</string>
-  <string name="outgoing">Utgående</string>
+    <string name="outgoing">Utgående</string>
   <string name="incoming">Inkommande</string>
   <string name="missed">Missade</string>
   <string name="settings">Inställningar</string>
@@ -53,8 +43,7 @@
   <string name="link">Länk</string>
   <string name="link_account_popup">Vill du länka kontot %s med ditt telefonnummer?</string>
   <string name="maybe_later">Kanske senare</string>
-  <string name="later">Senare</string>
-  <string name="no">Nej</string>
+    <string name="no">Nej</string>
   <string name="ok">OK</string>
   <string name="yes">Ja</string>
   <string name="link_account">Länka ditt konto</string>
@@ -69,14 +58,12 @@
   <string name="assistant">Assistent</string>
   <string name="assistant_create_account">Skapa konto</string>
   <string name="assistant_link_account">Länka konto</string>
-  <string name="assistant_continue">Fortsätt</string>
-  <string name="assistant_activate">Aktivera ditt konto</string>
+    <string name="assistant_activate">Aktivera ditt konto</string>
   <string name="assistant_finish">Slutför konfiguration</string>
   <string name="assistant_validate_account_1">Ditt konto har skapats. Kontrollera dina mejl för att validera ditt konto:</string>
   <string name="assistant_validate_account_2">När det är klart, kom tillbaka hit och klicka på knappen.</string>
   <string name="assistant_welcome_desc">Den här assistenten hjälper dig att konfigurera och använda ditt SIP-konto.</string>
-  <string name="assistant_linphone_login_desc">Ange ditt användarnamn och lösenord för Linphone-kontot</string>
-  <string name="assistant_login_desc">Ange ditt användarnamn och lösenord med din SIP-domän</string>
+    <string name="assistant_login_desc">Ange ditt användarnamn och lösenord med din SIP-domän</string>
   <string name="assistant_remote_provisioning_desc">Ange din provisioneringsadress</string>
   <string name="transport">Transport</string>
   <string name="assistant_create_account_phone_number_address">Din SIP-adress är</string>
@@ -103,28 +90,21 @@
   <string name="assistant_codec_down_question">Vill du hämta OpenH264 video kodek tillhandahållen av Cisco Systems, Inc.?</string>
   <string name="assistant_codec_downloading">Hämtar OpenH264 video kodek tillhandahållen av Cisco Systems, Inc.</string>
   <string name="assistant_openh264_downloading">Hämtar OpenH264</string>
-  <string name="assistant_openh264_restart">Innan du använder OpenH264-kodek måste du starta om %s.</string>
-  <string name="assistant_openh264_error">Tyvärr har ett fel inträffat.</string>
+    <string name="assistant_openh264_error">Tyvärr har ett fel inträffat.</string>
   <string name="assistant_codec_downloaded">OpenH264 video kodek tillhandahållen av Cisco Systems, Inc. hämtad.</string>
   <string name="wizard_failed">Ett fel inträffade, försök igen senare.</string>
   <string name="wizard_server_unavailable">Server onåbar, verifiera din nätverksanslutning.</string>
-  <string name="wizard_username_unavailable">Detta användarnamn används redan.</string>
-  <string name="assistant_phone_number_unavailable">Detta telefonnummer användsredan.\r\nSkriv ett annat nummer.\r\nDu kan ta bort ditt existerande konto om du vill återanvända ditt telefonnummer.</string>
+    <string name="assistant_phone_number_unavailable">Detta telefonnummer användsredan.\r\nSkriv ett annat nummer.\r\nDu kan ta bort ditt existerande konto om du vill återanvända ditt telefonnummer.</string>
   <string name="wizard_username_incorrect">Ditt användarnamn är ogiltigt.</string>
-  <string name="assistant_phone_number_incorrect">Ditt telefonnummer är ogiltigt.</string>
-  <string name="wizard_email_incorrect">Din e-postadress är ogiltig.</string>
-  <string name="wizard_password_incorrect">Ditt lösenord är ogiltigt</string>
+    <string name="wizard_password_incorrect">Ditt lösenord är ogiltigt</string>
   <string name="wizard_passwords_unmatched">Lösenorden matchar inte.</string>
-  <string name="setup_confirm_username">Your username will be %s.\r\n\r\nDet kan skilja sig från din inmatning för att matcha kraven.\r\nVill du acceptera?</string>
-  <string name="first_launch_no_login_password">Ange din inloggning och lösenord</string>
-  <string name="forgot_password">Glömt lösenord ?</string>
-  <string name="assistant_choose_country">Välj ett land</string>
+    <string name="first_launch_no_login_password">Ange din inloggning och lösenord</string>
+    <string name="assistant_choose_country">Välj ett land</string>
   <string name="select_your_country">Välj ditt land</string>
   <string name="country_code">(%s)</string>
   <string name="use_username_instead_or_phone_number">Använd ett användarnamn (valfritt)</string>
   <string name="use_email_for_validation">Använd e-postadress för kontovalidering</string>
-  <string name="login_with_username">Använd ditt användarnamn och lösenord istället för ditt telefonnummer</string>
-  <string name="phone_number_info_title">Vad ska mitt telefonnummer användas för?</string>
+    <string name="phone_number_info_title">Vad ska mitt telefonnummer användas för?</string>
   <string name="phone_number_info_content">\nTack vare ditt telefonnummer kommer dina vänner att hitta dig lättare.\n\n Du kommer att se i din adressbok vem som använder Linphone och dina vänner kommer veta att de kan nå dig på Linphone också.\n</string>
   <string name="phone_number_link_info_content">\nDina vänner hittar dig lättare om du kopplar ditt konto till ditt telefonnummer\n\nDu ser i din adressbok vilka som använder Linphone och dina vänner vet att de når dig på Linphone också.\n</string>
   <string name="phone_number_link_info_content_already_account">Du kan bara använda ditt telefonnummer med ett Linphone-konto.\n\nOm du redan har länkat ditt nummer till ett annat konto, men du föredrar att använda det här, kopplar du bara det nu och ditt nummer flyttas automatiskt till det här kontot.</string>
@@ -133,9 +113,7 @@
   <string name="account_already_exist">Konto finns redan</string>
   <string name="phone_number_not_exist">Det här kontot finns inte</string>
   <string name="invalid_username">Ogiltigt användarnamn</string>
-  <string name="invalid_domain">Ogiltig domän</string>
-  <string name="invalid_route">Ogiltig rutt</string>
-  <string name="invalid_display_name">Ogiltigt visningsnamn</string>
+    <string name="invalid_display_name">Ogiltigt visningsnamn</string>
   <string name="username_too_short">Användarnamn för kort</string>
   <string name="username_too_long">Användarnamn för långt</string>
   <string name="username_invalid_size">Användarnamnslängd ogiltig</string>
@@ -145,8 +123,7 @@
   <string name="password_too_short">Lösenordet för kort</string>
   <string name="password_too_long">Lösenord för långt</string>
   <string name="request_failed">Misslyckades med att fråga servern. Vänligen försök igen senare</string>
-  <string name="transport_unsupported">Transport stöds inte</string>
-  <string name="country_code_invalid">Landskod är ogiltig</string>
+    <string name="country_code_invalid">Landskod är ogiltig</string>
   <!--In-app-->
   <string name="inapp">Inom appen</string>
   <string name="inapp_notification_title">Köp inom appen</string>
@@ -157,16 +134,13 @@
   <!--History-->
   <string name="no_call_history">Inga samtal i din historik</string>
   <string name="no_missed_call_history">Inga missade samtal i din historik</string>
-  <string name="delete_history_log">Vill du ta bort vald samtalslog?</string>
-  <string name="today">Idag</string>
+    <string name="today">Idag</string>
   <string name="yesterday">Igår</string>
   <string name="calls">Samtal</string>
   <!--Contacts-->
   <string name="no_contact">Inga kontakter i din adressbok.</string>
   <string name="no_sip_contact">Inga SIP-kontakter i din adressbok.</string>
-  <string name="delete_contacts">Vill du ta bort valda kontakter?</string>
-  <string name="delete_contact">Vill du ta bort vald kontakt?</string>
-  <string name="sip_address">SIP-adress</string>
+    <string name="sip_address">SIP-adress</string>
   <string name="contact_first_name">Förnamn</string>
   <string name="contact_last_name">Efternamn</string>
   <string name="contact_organization">Organisation</string>
@@ -175,36 +149,18 @@
   <string name="toast_choose_contact_for_edition">Välj en kontakt eller skapa en ny</string>
   <!--Chat-->
   <string name="no_chat_history">Inga konversationer</string>
-  <string name="delete_conversation">Vill du ta bort vald konversation?</string>
-  <string name="delete_message">Vill du ta bort valt meddelande?</string>
-  <string name="remote_composing">Motpart skriver...</string>
+    <string name="remote_composing">Motpart skriver...</string>
   <string name="remote_composing_single">%s skriver…</string>
   <string name="remote_composing_multiple">%s skriver…</string>
-  <string name="share_picture_size_small">Liten</string>
-  <string name="share_picture_size_medium">Mellan</string>
-  <string name="share_picture_size_large">Stor</string>
-  <string name="share_picture_size_real">Riktig storlek</string>
-  <string name="text_copied_to_clipboard">Text kopierades till urklipp</string>
-  <string name="copy_text">Kopiera text</string>
+    <string name="copy_text">Kopiera text</string>
   <string name="image_picker_title">Välj källa</string>
-  <string name="image_saved">Bild sparad</string>
-  <string name="image_not_saved">Fel, bild ej sparad</string>
-  <string name="wait">Vänligen vänta…</string>
-  <string name="image_transfert_error">Ett fel inträffade under filöverföringen</string>
-  <string name="message_not_encrypted">Detta meddelande är inte krypterat</string>
-  <string name="message_cant_be_decrypted">Du har fått ett krypterat meddelande som du inte kan dekryptera från %s\nDu behöver ringa din korrespondent för att utbyta dina ZRTP-nycklar om du vill dekryptera de framtida meddelanden som du kommer att få.</string>
+    <string name="message_cant_be_decrypted">Du har fått ett krypterat meddelande som du inte kan dekryptera från %s\nDu behöver ringa din korrespondent för att utbyta dina ZRTP-nycklar om du vill dekryptera de framtida meddelanden som du kommer att få.</string>
   <string name="message_cant_be_decrypted_notif">Du behöver ringa din korrespondent för att utbyta dina ZRTP-nycklar om du vill dekryptera de framtida meddelanden som du kommer att få.</string>
-  <string name="lime_not_verified">Du försöker skicka ett meddelande med hjälp av LIME till en kontakt som inte verifierats av ZRTP.\nRing den här kontakten och verifiera hans ZRTP-nyckel innan du skickar dina meddelanden.</string>
-  <string name="processing_image">Bearbetning av bild kan ta upp till några sekunder beroende på filens storlek</string>
-  <string name="displayed">Läs</string>
+    <string name="displayed">Läs</string>
   <string name="delivered">Levererades</string>
-  <string name="undelivered">Olevererat</string>
-  <string name="sent">Skickat</string>
+    <string name="sent">Skickat</string>
   <string name="resend">Skicka igen</string>
-  <string name="error_opening_file">Ett fel uppstod när den här filen öppnades.</string>
-  <string name="conversation_information">Info</string>
-  <string name="administrator">Administratör</string>
-  <string name="conversation_subject_hint">Namnge gruppen</string>
+    <string name="conversation_subject_hint">Namnge gruppen</string>
   <string name="chat_room_infos_title">Info</string>
   <string name="chat_room_infos_admin">Administratör</string>
   <string name="chat_room_participants">Deltagare</string>
@@ -244,8 +200,7 @@
   <string name="status_not_connected">Inte ansluten</string>
   <string name="status_in_progress">Anslutning pågår</string>
   <string name="status_error">Anslutningen misslyckades</string>
-  <string name="voicemail_unread">olästa meddelanden</string>
-  <!--Side Menu-->
+    <!--Side Menu-->
   <string name="menu_logout">Logga ut</string>
   <string name="menu_assistant">Assistent</string>
   <string name="menu_settings">Inställningar</string>
@@ -262,10 +217,7 @@
   <string name="zrtp_local_sas">Säg:</string>
   <string name="zrtp_remote_sas">Bekräfta att din samtalspartner säger:</string>
   <string name="zrtp_dialog_title">Kommunikationssäkerhet</string>
-  <string name="zrtp_notification_title">SAS</string>
-  <string name="zrtp_notification_message">Bekräfta tidigare SAS-kod med din korrespondent</string>
-  <string name="unknown_incoming_call_name">Okänd</string>
-  <string name="call_stats_audio">Ljud</string>
+    <string name="call_stats_audio">Ljud</string>
   <string name="call_stats_video">Video</string>
   <string name="call_stats_codec">Kodek:</string>
   <string name="call_stats_ip">IP-familj:</string>
@@ -297,27 +249,23 @@
   <string name="incall_notif_video">Videofångstsamtal pågående</string>
   <string name="incall_notif_incoming">Inkommande samtal</string>
   <string name="incall_notif_outgoing">Utgående samtal</string>
-  <string name="notification_started">startad</string>
-  <string name="unread_messages">%i olästa meddelanden</string>
+    <string name="unread_messages">%i olästa meddelanden</string>
   <string name="missed_calls_notif_title">Missat samtal</string>
   <string name="missed_calls_notif_body">%i missat samtal</string>
   <!--Errors-->
   <string name="skipable_error_service_not_ready">Varning: tjänst inte redo</string>
   <string name="error">Fel</string>
   <string name="file_transfer_error">Filöverföringsfel</string>
-  <string name="warning_wrong_destination_address">Kan inte bygga destinationsadress från %s</string>
-  <string name="error_unknown">Okänt fel</string>
+    <string name="error_unknown">Okänt fel</string>
   <string name="error_call_declined">Samtal avvisat</string>
   <string name="error_user_busy">Användare upptagen</string>
   <string name="error_user_not_found">Användare ej funnen</string>
   <string name="error_incompatible_media">Okompatibla mediaparametrar</string>
   <string name="error_low_bandwidth">Din uppringare har låg bandbredd, video kan inte startas</string>
   <string name="error_network_unreachable">Nätverk otillgängligt</string>
-  <string name="error_bad_credentials">Felaktigt inloggningsuppgifter</string>
-  <string name="error_unauthorized">Obehörig</string>
+    <string name="error_unauthorized">Obehörig</string>
   <string name="error_io_error">Nätverksfel</string>
-  <string name="download_image_failed">Hämtning misslyckad. Kontrollera din nätverksanslutning eller försök igen senare.</string>
-  <string name="remote_provisioning_failure">Misslyckades med att hämta eller tillämpa fjärrprovisionsprofil...</string>
+    <string name="remote_provisioning_failure">Misslyckades med att hämta eller tillämpa fjärrprovisionsprofil...</string>
   <string name="remote_provisioning_again_title">Fjärrleverans</string>
   <string name="remote_provisioning_again_message">Vill du ändra leverans-URI?</string>
   <!--Account Settings-->
@@ -329,8 +277,7 @@
   <string name="pref_passwd">Lösenord*</string>
   <string name="pref_username">Användarnamn*</string>
   <string name="pref_enable_outbound_proxy">Utgående proxy</string>
-  <string name="pref_help_proxy">SIP proxy värdnamn eller ip-adress (valfritt)</string>
-  <string name="pref_help_outbound_proxy">Dirigera alla samtal via SIP-proxy</string>
+    <string name="pref_help_outbound_proxy">Dirigera alla samtal via SIP-proxy</string>
   <string name="pref_help_username">Exempel: john om ditt konto är john@sip.exempel.org</string>
   <string name="pref_help_domain">sip.exempel.org om ditt konto är john@sip.exempel.org</string>
   <string name="pref_help_password">Du måste skriva in ditt lösenord igen om du redigerar ditt användarnamn och/eller domänen</string>
@@ -351,14 +298,11 @@
   <string name="pref_delete_account">Ta bort detta konto</string>
   <string name="pref_change_password">Ändra lösenord</string>
   <string name="pref_default_account">Använd som standard</string>
-  <string name="pref_password_changed">Lösenordet ändrat</string>
-  <string name="pref_proxy_push_notif">Tillåt push-avisering</string>
+    <string name="pref_proxy_push_notif">Tillåt push-avisering</string>
   <!--Settings-->
   <string name="pref_sipaccounts">SIP-konton</string>
   <string name="default_account_flag">Standardkonto</string>
-  <string name="pref_add_account">Lägg till konto</string>
-  <string name="pref_in_app_store">Butik inom app</string>
-  <string name="pref_tunnel_title">Tunnel</string>
+    <string name="pref_tunnel_title">Tunnel</string>
   <string name="pref_tunnel_host">Värdnamn</string>
   <string name="pref_tunnel_port">Port</string>
   <string name="pref_tunnel_mode">Läge</string>
@@ -391,8 +335,7 @@
   <string name="pref_video_title">Video</string>
   <string name="pref_overlay">Videoöverlagring</string>
   <string name="pref_overlay_summary">Visningsvideo i överlagring när det är utanför applikationen</string>
-  <string name="pref_video_use_front_camera_title">Använd front-kamera</string>
-  <string name="pref_video_initiate_call_with_video_title">Initiera videosamtal</string>
+    <string name="pref_video_initiate_call_with_video_title">Initiera videosamtal</string>
   <string name="pref_video_initiate_call_with_video">Skicka alltid videoförfrågningar</string>
   <string name="pref_video_automatically_accept_video_title">Acceptera inkommande videoförfrågningar</string>
   <string name="pref_video_automatically_accept_video">Acceptera alltid videoförfrågningar</string>
@@ -400,8 +343,7 @@
   <string name="pref_preferred_video_size">Föredragen videostorlek</string>
   <string name="pref_preferred_fps">Föredragen FPS</string>
   <string name="pref_bandwidth_limit">Bandbreddsgräns i kbit/s</string>
-  <string name="pref_video_codecs_title">Kodek</string>
-  <!--Call settings-->
+    <!--Call settings-->
   <string name="pref_call_title">Ring</string>
   <string name="pref_device_ringtone">Använd enhetens ringsignal</string>
   <string name="pref_vibrate_on_incoming_calls">Vibrera medan inkommande samtal ringer</string>
@@ -409,20 +351,12 @@
   <string name="pref_auto_answer_time">Autosvarstid (i millisekunder)</string>
   <string name="pref_rfc2833_dtmf">Skicka in-band DTMF (RFC2833)</string>
   <string name="pref_sipinfo_dtmf">Skicka ut-band DTMF (SIP INFO)</string>
-  <string name="pref_call_timeout_title">Tidsgräns för samtal (i sekunder)</string>
-  <string name="pref_voice_mail">Röstbrevlåda URI</string>
-  <string name="pref_dialer_call">Använd Linphone som standard telefonapp</string>
-  <string name="pref_accept_early_media">Acceptera tidig-media</string>
-  <!--Chat settings-->
+    <string name="pref_voice_mail">Röstbrevlåda URI</string>
+    <!--Chat settings-->
   <string name="pref_chat_title">Chatt</string>
   <string name="pref_image_sharing_server_title">Delar server</string>
   <string name="pref_image_sharing_server_desc">Redigera inte om du inte vet vad du gör!</string>
-  <string name="pref_use_lime_encryption">Använd LIME-kryptering</string>
-  <string name="lime_encryption_entry_disabled">Inaktiverad</string>
-  <string name="lime_encryption_entry_mandatory">Obligatorisk</string>
-  <string name="lime_encryption_entry_preferred">Föredragen</string>
-  <string name="lime_encryption_enable_zrtp">LIME kräver ZRTP-kryptering.\nGenom att aktivera LIME aktiverar du automatiskt ZRTP-mediekryptering.</string>
-  <string name="pref_auto_download_policy_title">Policy för att hämta automatiskt inkommande filer</string>
+    <string name="pref_auto_download_policy_title">Policy för att hämta automatiskt inkommande filer</string>
   <string name="pref_auto_download_max_size_title">Största storlek (i byte)</string>
   <string name="pref_auto_download_disabled">Aldrig</string>
   <string name="pref_auto_download_always">Alltid</string>
@@ -430,20 +364,14 @@
   <!--Network settings-->
   <string name="pref_network_title">Nätverk</string>
   <string name="pref_wifi_only">Använd endast Wi-Fi</string>
-  <string name="pref_doze_mode">Doze-läge</string>
-  <string name="pref_stun_server">STUN / TURN-server</string>
+    <string name="pref_stun_server">STUN / TURN-server</string>
   <string name="pref_ice_enable">Aktivera ICE</string>
   <string name="pref_turn_enable">Aktivera TURN</string>
   <string name="pref_turn_username_title">STUN / TURN användarnamn (valfritt)</string>
   <string name="pref_turn_passwd_title">STUN / TURN lösenord (valfritt)</string>
-  <string name="pref_upnp_enable">Aktivera UPNP</string>
-  <string name="pref_transport_use_random_ports">Använd slumpade portar</string>
+    <string name="pref_transport_use_random_ports">Använd slumpade portar</string>
   <string name="pref_sip_port_title">SIP-port att använda</string>
-  <string name="pref_video_port_title">Videoport eller portintervall</string>
-  <string name="pref_audio_port_title">Ljudport eller portintervall</string>
-  <string name="pref_video_port_description">Videoport eller portintervall (minport-maxport)</string>
-  <string name="pref_audio_port_description">Ljudport eller portintervall (minport-maxport)</string>
-  <string name="pref_media_encryption">Mediakryptering</string>
+    <string name="pref_media_encryption">Mediakryptering</string>
   <string name="pref_push_notification">Aktivera push-meddelanden</string>
   <string name="pref_ipv6_title">Tillåt IPv6</string>
   <string name="pref_protected_settings_title">Inställningar för batteriskyddade appar</string>
@@ -451,15 +379,12 @@
   <!--Advanced settings-->
   <string name="pref_advanced_title">Avancerat</string>
   <string name="pref_dark_mode">Mörkt läge</string>
-  <string name="pref_debug_title">Felsökning</string>
-  <string name="pref_debug">Felsökning</string>
+    <string name="pref_debug">Felsökning</string>
   <string name="pref_java_debug">Använd Java-loggare</string>
   <string name="pref_friendlist_subscribe">Prenumerera på vänlista</string>
   <string name="pref_background_mode">Bakgrundsläge</string>
   <string name="pref_background_mode_desc">Visa en avisering för att hålla appen vid liv</string>
-  <string name="pref_animation_enable_title">Aktivera animeringar</string>
-  <string name="pref_service_notification">Aktivera serviceanmälan</string>
-  <string name="pref_autostart">Starta vid uppstart</string>
+    <string name="pref_autostart">Starta vid uppstart</string>
   <string name="pref_incoming_call_timeout_title">Avslut för inkommande samtal (i sekunder)</string>
   <string name="pref_remote_provisioning_title">Fjärrleverans</string>
   <string name="pref_android_app_settings_title">Android-appinställningar</string>
@@ -468,12 +393,7 @@
   <string name="pref_display_name_title">Visningsnamn</string>
   <string name="pref_user_name_title">Användarnamn</string>
   <!--Audio hack settings-->
-  <string name="pref_audio_hacks_title">Ljud-hacks</string>
-  <string name="pref_audio_use_specific_mode_title">Använd specifikt läge hack</string>
-  <string name="pref_audio_use_specific_mode_summary">0=MODE_NORMAL (standard), 2=MODE_IN_CALL</string>
-  <string name="pref_audio_hacks_use_routing_api_title">Använd rutt API hack</string>
-  <string name="pref_audio_hacks_use_galaxys_hack_title">Använd Galaxy S-ljudhack</string>
-  <!--Device specifics-->
+    <!--Device specifics-->
   <string name="device_power_saver_dialog_title">Energisparläge upptäckt!</string>
   <string name="device_power_saver_dialog_message">Det verkar som om din enhet har en energisparare. För att appen ska kunna ta emot samtal och meddelanden i bakgrunden med hjälp av push-meddelanden måste appen vitlistas.</string>
   <string name="device_power_saver_dialog_button_go_to_settings">Inställningar</string>
@@ -500,23 +420,16 @@
   <string name="content_description_call">Ring</string>
   <string name="content_description_backspace">Baksteg</string>
   <string name="content_description_chat">Chatt</string>
-  <string name="content_description_dial_back">Ring tillbaka</string>
-  <string name="content_description_dialer_back">Återgå till uppringare</string>
-  <string name="content_description_contact_picture">Kontakt-bild</string>
-  <string name="content_description_send_message">Skicka meddelande</string>
+    <string name="content_description_dialer_back">Återgå till uppringare</string>
+    <string name="content_description_send_message">Skicka meddelande</string>
   <string name="content_description_detail">Detaljer</string>
   <string name="content_description_delete">Ta bort</string>
   <string name="content_description_add">Lägg till samtal</string>
   <string name="content_description_new_discussion">Ny diskussion</string>
-  <string name="content_description_search">Sök</string>
-  <string name="content_description_search_contact">Sök kontakt</string>
-  <string name="content_description_search_country">Sök land</string>
-  <string name="content_description_all_contacts">Alla kontakter</string>
+    <string name="content_description_all_contacts">Alla kontakter</string>
   <string name="content_description_linphone_contacts">Linphone-kontakter</string>
   <string name="content_description_call_direction">Samtalsriktning</string>
-  <string name="content_description_all_calls">Alla samtal</string>
-  <string name="content_description_missed_calls">Missade samtal</string>
-  <string name="content_description_switch_video">Växla video</string>
+    <string name="content_description_switch_video">Växla video</string>
   <string name="content_description_add_call">Lägg till samtal</string>
   <string name="content_description_pause">Pausa</string>
   <string name="content_description_numpad">Siffertangentbord</string>

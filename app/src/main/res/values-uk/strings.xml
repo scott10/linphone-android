@@ -3,13 +3,8 @@
   <!--Custom-->
   <string name="app_name">Linphone</string>
   <string name="service_name">Служба Linphone</string>
-  <string name="addressbook_label">Linphone</string>
-  <string name="notification_title">Linphone</string>
-  <string name="wait_dialog_text">Завантажується</string>
-  <string name="tunnel_host"></string>
-  <string name="about_version">Linphone Android %s</string>
-  <string name="about_liblinphone_version">Linphone ядро %s</string>
-  <string name="about_liblinphone_sdk_version">Linphone SDK %s</string>
+    <string name="about_version">Linphone Android %s</string>
+    <string name="about_liblinphone_sdk_version">Linphone SDK %s</string>
   <string name="sync_account_name">контакти linphone</string>
   <!--Notifications-->
   <string name="notification_reply_label">Відповідь</string>
@@ -21,24 +16,21 @@
   <string name="username">Ім\'я користувача</string>
   <string name="userid">Ідентифікатор користувача (необов\'язково)</string>
   <string name="phone_number">Номер телефону</string>
-  <string name="display_name">Показуване ім\'я</string>
-  <string name="password">Пароль</string>
+    <string name="password">Пароль</string>
   <string name="confirm_password">Схвалення паролю</string>
   <string name="domain">Домен</string>
   <string name="remote_provisioning_url">URL-адреса</string>
   <string name="email">Електронна пошта</string>
   <string name="delete_text">Ви справді волієте вилучити обране?</string>
   <string name="delete">Вилучити</string>
-  <string name="retry">Повторити</string>
-  <string name="cancel">Скасувати</string>
+    <string name="cancel">Скасувати</string>
   <string name="accept">Прийняти</string>
   <string name="open">Відкрити</string>
   <string name="continue_text">Продовжити</string>
   <string name="about">Про програму</string>
   <string name="deny">Відхилити</string>
   <string name="no_account">Немає налаштованих обліківок</string>
-  <string name="search">Пошук</string>
-  <string name="outgoing">Вихідний</string>
+    <string name="outgoing">Вихідний</string>
   <string name="incoming">Вхідний</string>
   <string name="missed">Пропущений</string>
   <string name="settings">Налаштування</string>
@@ -48,8 +40,7 @@
   <string name="link">Посилання</string>
   <string name="link_account_popup">Ви бажаєте пов\'язати обліківку %s з вашим номером телефону?</string>
   <string name="maybe_later">Можливо пізніше</string>
-  <string name="later">Пізніше</string>
-  <string name="no">Ні</string>
+    <string name="no">Ні</string>
   <string name="ok">Так</string>
   <string name="yes">Так</string>
   <string name="link_account">Пов\'язати вашу обліківку</string>
@@ -63,14 +54,12 @@
   <string name="assistant">Асистент</string>
   <string name="assistant_create_account">Створити обліківку</string>
   <string name="assistant_link_account">Пов\'язати обліківку</string>
-  <string name="assistant_continue">Продовжити</string>
-  <string name="assistant_activate">Активувати обліківку</string>
+    <string name="assistant_activate">Активувати обліківку</string>
   <string name="assistant_finish">Закінчити налаштування</string>
   <string name="assistant_validate_account_1">Вашу обліківку створено. Для підтвердження обліківки перевірте свою пошту:</string>
   <string name="assistant_validate_account_2">Після цього поверніться і натисніть кнопку.</string>
   <string name="assistant_welcome_desc">Цей помічник допоможе вам налаштувати та використовувати свою SIP-обліківку.</string>
-  <string name="assistant_linphone_login_desc">Уведіть ім\'я користувача та пароль обліківки Linphone</string>
-  <string name="assistant_login_desc">Уведіть ім\'я користувача та пароль вашого домену SIP</string>
+    <string name="assistant_login_desc">Уведіть ім\'я користувача та пароль вашого домену SIP</string>
   <string name="assistant_remote_provisioning_desc">Вкажіть URL-адресу конфігурації</string>
   <string name="transport">Транспорт</string>
   <string name="assistant_create_account_phone_number_address">Ваша SIP-адреса</string>
@@ -97,28 +86,21 @@
   <string name="assistant_codec_down_question">Ви згодні завантажити OpenH264 Video Codec, наданий компанією Cisco Systems, Inc.?</string>
   <string name="assistant_codec_downloading">Завантаження OpenH264 Video Codec, наданого компанією Cisco Systems, Inc.</string>
   <string name="assistant_openh264_downloading">Завантаження OpenH264</string>
-  <string name="assistant_openh264_restart">Перш ніж ви зможете користуватися OpenH264 codec потрібно перезапуститися %s.</string>
-  <string name="assistant_openh264_error">Вибачте сталася помилка.</string>
+    <string name="assistant_openh264_error">Вибачте сталася помилка.</string>
   <string name="assistant_codec_downloaded">OpenH264 Video Codec, наданий компанією Cisco Systems, Inc. завантажено.</string>
   <string name="wizard_failed">Сталася помилка, повторіть спробу пізніше.</string>
   <string name="wizard_server_unavailable">Сервер недоступний, перевірте мережеве з\'єднання.</string>
-  <string name="wizard_username_unavailable">Це ім\'я користувача вже прийнято.</string>
-  <string name="assistant_phone_number_unavailable">Цей номер телефону вже використовується.\r\nБудь ласка, введіть инший номер.\r\nВи можете вилучити наявний обліковий запис, якщо ви бажаєте повторно використовувати свій номер телефону.</string>
+    <string name="assistant_phone_number_unavailable">Цей номер телефону вже використовується.\r\nБудь ласка, введіть инший номер.\r\nВи можете вилучити наявний обліковий запис, якщо ви бажаєте повторно використовувати свій номер телефону.</string>
   <string name="wizard_username_incorrect">Неприпустиме ім\'я користувача.</string>
-  <string name="assistant_phone_number_incorrect">Неприпустимий номер телефону.</string>
-  <string name="wizard_email_incorrect">Неприпустима адреса електронної пошти.</string>
-  <string name="wizard_password_incorrect">Неприпустимий пароль</string>
+    <string name="wizard_password_incorrect">Неприпустимий пароль</string>
   <string name="wizard_passwords_unmatched">Паролі не збігаються.</string>
-  <string name="setup_confirm_username">Ваше ім\'я користувача буде %s.\r\n\r\nВоно може відрізнятися від обраного вами для відповідности вимогам.\r\nВи згідні?</string>
-  <string name="first_launch_no_login_password">Уведіть ім\'я користувача та пароль</string>
-  <string name="forgot_password">Забули пароль ?</string>
-  <string name="assistant_choose_country">Оберіть країну</string>
+    <string name="first_launch_no_login_password">Уведіть ім\'я користувача та пароль</string>
+    <string name="assistant_choose_country">Оберіть країну</string>
   <string name="select_your_country">Оберіть свою країну</string>
   <string name="country_code">(%s)</string>
   <string name="use_username_instead_or_phone_number">Використовувати ім\'я користувача (необов\'язково)</string>
   <string name="use_email_for_validation">Використовувати адресу електронної пошти для перевірки обліківки</string>
-  <string name="login_with_username">Замість номеру телефону використовувати ім\'я користувача та пароль</string>
-  <string name="phone_number_info_title">Для чого буде використовуватися мій номер телефону?</string>
+    <string name="phone_number_info_title">Для чого буде використовуватися мій номер телефону?</string>
   <string name="phone_number_info_content">\nВашим друзям буде простіше зконтактуватися з вами, якщо ви зв\'яжете свою обліківку зі своїм номером телефону.\n\n У вашій адресній книзі ви побачите, хто використовує Linphone, а ваші друзі зможуть дізнатися, що ви також зареєстровані в Linphone.\n</string>
   <string name="phone_number_link_info_content">\nВашим друзям буде простіше зконтактуватися з вами, якщо ви зв\'яжете свою обліківку зі своїм номером телефону.\n\nУ вашій адресній книзі ви побачите, хто використовує Linphone, а ваші друзі зможуть дізнатися, що ви також зареєстровані в Linphone.\n</string>
   <string name="phone_number_link_info_content_already_account">Номер телефону можна використовувати лише з однією обліківкою Linphone.\n\nЯкщо ваш номер вже був зв\'язаний з иншою обліківкою, але ви волієте використовувати його, просто зв\'яжіть його зараз, й ваш номер буде автоматично перенесено в цю обліківку.</string>
@@ -127,9 +109,7 @@
   <string name="account_already_exist">Обліківка вже існує</string>
   <string name="phone_number_not_exist">Цієї обліківки не існує</string>
   <string name="invalid_username">Неправильне ім\'я користувача</string>
-  <string name="invalid_domain">Неприпустимий домен</string>
-  <string name="invalid_route">Неприпустимий маршрут</string>
-  <string name="invalid_display_name">Неприпустиме ім\'я</string>
+    <string name="invalid_display_name">Неприпустиме ім\'я</string>
   <string name="username_too_short">Закоротке ім\'я користувача</string>
   <string name="username_too_long">Задовге ім\'я користувача</string>
   <string name="username_invalid_size">Неприпустима довжина імени користувача</string>
@@ -139,8 +119,7 @@
   <string name="password_too_short">Закороткий пароль</string>
   <string name="password_too_long">Задовгий пароль</string>
   <string name="request_failed">Не вдалося запитати сервер. Повторіть спробу пізніше</string>
-  <string name="transport_unsupported">Непідтримуваний транспорт</string>
-  <string name="country_code_invalid">Неприпустимий код країни</string>
+    <string name="country_code_invalid">Неприпустимий код країни</string>
   <!--In-app-->
   <string name="inapp">У додатку</string>
   <string name="inapp_notification_title">Купівля у додатку</string>
@@ -151,47 +130,27 @@
   <!--History-->
   <string name="no_call_history">В журналі немає викликів</string>
   <string name="no_missed_call_history">В журналі немає пропущених викликів</string>
-  <string name="delete_history_log">Ви справді бажаєте вилучити обраний журнал викликів?</string>
-  <string name="today">Сьогодні</string>
+    <string name="today">Сьогодні</string>
   <string name="yesterday">Вчора</string>
   <!--Contacts-->
   <string name="no_contact">В адресній книзі немає контактів.</string>
   <string name="no_sip_contact">В адресній книзі немає SIP контактів.</string>
-  <string name="delete_contacts">Ви справді бажаєте вилучити обрані контакти?</string>
-  <string name="delete_contact">Ви справді бажаєте вилучити обраний контакт?</string>
-  <string name="sip_address">Адреса SIP</string>
+    <string name="sip_address">Адреса SIP</string>
   <string name="contact_first_name">Ім\'я</string>
   <string name="contact_last_name">Прізвище</string>
   <string name="contact_organization">Організація</string>
   <string name="invite_friend">Запросити</string>
   <!--Chat-->
   <string name="no_chat_history">Немає розмов</string>
-  <string name="delete_conversation">Ви справді бажаєте вилучити обрану розмову?</string>
-  <string name="delete_message">Ви справді бажаєте вилучити обране повідомлення?</string>
-  <string name="share_picture_size_small">Маленький</string>
-  <string name="share_picture_size_medium">Середній</string>
-  <string name="share_picture_size_large">Великий</string>
-  <string name="share_picture_size_real">Початковий розмір</string>
-  <string name="text_copied_to_clipboard">Текст скопійовано до буферу обміну</string>
-  <string name="copy_text">Копіювати текст</string>
+    <string name="copy_text">Копіювати текст</string>
   <string name="image_picker_title">Вибрати джерело</string>
-  <string name="image_saved">Зображення збережено</string>
-  <string name="image_not_saved">Помилка, зображення не збережено</string>
-  <string name="image_transfert_error">При передачі файлу трапилася помилка</string>
-  <string name="message_not_encrypted">Це повідомлення не зашифровано</string>
-  <string name="message_cant_be_decrypted">Від %sотримано зашифроване повідомлення, яке ви не можете розшифрувати.\nВи маєте зателефонувати своєму співрозмовнику для обміну ключами ZRTP. Це необхідно для розшифрування майбутніх повідомлень, які ви отримаєте.</string>
+    <string name="message_cant_be_decrypted">Від %sотримано зашифроване повідомлення, яке ви не можете розшифрувати.\nВи маєте зателефонувати своєму співрозмовнику для обміну ключами ZRTP. Це необхідно для розшифрування майбутніх повідомлень, які ви отримаєте.</string>
   <string name="message_cant_be_decrypted_notif">Ви не можете розшифрувати це повідомлення.</string>
-  <string name="lime_not_verified">Ви намагаєтеся відіслати повідомлення за допомогою LIME з неверифікованим ключем ZRTP.\nБудь ласка, зателефонуйте цьому контакту й підтвердіть його ключ ZRTP перед відправкою повідомлень.</string>
-  <string name="processing_image">Опрацювання зображення може зайняти декілька секунд у залежности від розміру файлу</string>
-  <string name="displayed">Прочитано</string>
+    <string name="displayed">Прочитано</string>
   <string name="delivered">Доставлено</string>
-  <string name="undelivered">Не доставлено</string>
-  <string name="sent">Відправлено</string>
+    <string name="sent">Відправлено</string>
   <string name="resend">Переслати</string>
-  <string name="error_opening_file">При відкритті цього файлу виникла помилка.</string>
-  <string name="conversation_information">Інформація</string>
-  <string name="administrator">Адміністратор</string>
-  <string name="conversation_subject_hint">Назвіть групу</string>
+    <string name="conversation_subject_hint">Назвіть групу</string>
   <string name="chat_room_infos_title">Інформація</string>
   <string name="chat_room_infos_admin">Адміністратор</string>
   <string name="chat_room_participants">Учасники</string>
@@ -226,8 +185,7 @@
   <string name="unexpected_event">Несподівана подія %i для %s</string>
   <string name="download_file">Стягнути</string>
   <!--Status Bar-->
-  <string name="voicemail_unread">непрочитаних повідомлень</string>
-  <!--Side Menu-->
+    <!--Side Menu-->
   <string name="menu_assistant">Асистент</string>
   <string name="menu_settings">Налаштування</string>
   <string name="menu_recordings">Записи</string>
@@ -243,10 +201,7 @@
   <string name="zrtp_local_sas">Говорить:</string>
   <string name="zrtp_remote_sas">Переконайтеся, що ваш співрозмовник говорить:</string>
   <string name="zrtp_dialog_title">Безпека зв\'язку</string>
-  <string name="zrtp_notification_title">SAS</string>
-  <string name="zrtp_notification_message">Підтвердити попередній код SAS з вашим співрозмовником</string>
-  <string name="unknown_incoming_call_name">Невідомий</string>
-  <string name="call_stats_audio">Авдіо</string>
+    <string name="call_stats_audio">Авдіо</string>
   <string name="call_stats_video">Відео</string>
   <string name="call_stats_codec">Кодек:</string>
   <string name="call_stats_ip">Родина IP:</string>
@@ -275,27 +230,23 @@
   <string name="incall_notif_active">Встановлено авдіоз\'єднання</string>
   <string name="incall_notif_paused">Виклик на павзі</string>
   <string name="incall_notif_video">Встановлено відеоз\'єднання</string>
-  <string name="notification_started">почато</string>
-  <string name="unread_messages">%i непрочитаних повідомлень</string>
+    <string name="unread_messages">%i непрочитаних повідомлень</string>
   <string name="missed_calls_notif_title">Пропущений виклик</string>
   <string name="missed_calls_notif_body">%i пропущених викликів</string>
   <!--Errors-->
   <string name="skipable_error_service_not_ready">Попередження: служба не готова</string>
   <string name="error">Помилка</string>
   <string name="file_transfer_error">Помилка передавання файлу</string>
-  <string name="warning_wrong_destination_address">Неможливо створити адресу призначення із %s</string>
-  <string name="error_unknown">Невідома помилка</string>
+    <string name="error_unknown">Невідома помилка</string>
   <string name="error_call_declined">Виклик відхилено</string>
   <string name="error_user_busy">Абонент зайнятий</string>
   <string name="error_user_not_found">Абонент не знайдений</string>
   <string name="error_incompatible_media">Несумісні параметри потоку</string>
   <string name="error_low_bandwidth">У вашого співрозмовника низька пропускна здатність, відео не може бути запущено</string>
   <string name="error_network_unreachable">Мережа недоступна</string>
-  <string name="error_bad_credentials">Невірні облікові дані</string>
-  <string name="error_unauthorized">Не авторизований</string>
+    <string name="error_unauthorized">Не авторизований</string>
   <string name="error_io_error">Помилка мережі</string>
-  <string name="download_image_failed">Завантаження не вдалося. Перевірте мережеве з\'єднання або повторіть спробу пізніше.</string>
-  <string name="remote_provisioning_again_title">Віддалене конфігурування</string>
+    <string name="remote_provisioning_again_title">Віддалене конфігурування</string>
   <string name="remote_provisioning_again_message">Ви бажаєте змінити URI конфігурування?</string>
   <!--Account Settings-->
   <string name="pref_sipaccount">SIP-обліківка</string>
@@ -306,8 +257,7 @@
   <string name="pref_passwd">Пароль*</string>
   <string name="pref_username">Ім\'я користувача*</string>
   <string name="pref_enable_outbound_proxy">Вихідний проксі</string>
-  <string name="pref_help_proxy">Ім\'я проксі-сервера SIP або ip адреса (необов\'язково)</string>
-  <string name="pref_help_outbound_proxy">Маршрутизація усіх викликів через SIP-проксі</string>
+    <string name="pref_help_outbound_proxy">Маршрутизація усіх викликів через SIP-проксі</string>
   <string name="pref_help_username">Наприклад: john якщо ваша адреса john@sip.example.org</string>
   <string name="pref_help_domain">sip.example.org якщо ваша адреса john@sip.example.org</string>
   <string name="pref_help_password">Необхідно знову увести пароль, якщо ви зміните ім\'я користувача і/або домен</string>
@@ -328,14 +278,11 @@
   <string name="pref_delete_account">Вилучити обліківку</string>
   <string name="pref_change_password">Змінити пароль</string>
   <string name="pref_default_account">Використовувати типово</string>
-  <string name="pref_password_changed">Пароль змінено</string>
-  <string name="pref_proxy_push_notif">Дозволити push-сповіщення</string>
+    <string name="pref_proxy_push_notif">Дозволити push-сповіщення</string>
   <!--Settings-->
   <string name="pref_sipaccounts">SIP обліківки</string>
   <string name="default_account_flag">Типова обліківка</string>
-  <string name="pref_add_account">Додати обліківку</string>
-  <string name="pref_in_app_store">In-app Store</string>
-  <string name="pref_tunnel_title">Тунель</string>
+    <string name="pref_tunnel_title">Тунель</string>
   <string name="pref_tunnel_host">Сервер</string>
   <string name="pref_tunnel_port">Порт</string>
   <string name="pref_tunnel_mode">Режим</string>
@@ -366,8 +313,7 @@
   <string name="pref_video_title">Відео</string>
   <string name="pref_overlay">Накладення відео</string>
   <string name="pref_overlay_summary">Показувати відеовиклик накладуванням на сторонньому застосунку</string>
-  <string name="pref_video_use_front_camera_title">Використовувати фронтальну камеру</string>
-  <string name="pref_video_initiate_call_with_video_title">Ініціювання відеодзінків</string>
+    <string name="pref_video_initiate_call_with_video_title">Ініціювання відеодзінків</string>
   <string name="pref_video_initiate_call_with_video">Завжди відсилати запити на відео</string>
   <string name="pref_video_automatically_accept_video_title">Приймати вхідні запити на відео</string>
   <string name="pref_video_automatically_accept_video">Завжди приймати запити на відео</string>
@@ -375,8 +321,7 @@
   <string name="pref_preferred_video_size">Бажаний розмір відео</string>
   <string name="pref_preferred_fps">Бажаний FPS</string>
   <string name="pref_bandwidth_limit">Обмеження пропускної здатности в кбит/с</string>
-  <string name="pref_video_codecs_title">Кодеки</string>
-  <!--Call settings-->
+    <!--Call settings-->
   <string name="pref_call_title">Виклик</string>
   <string name="pref_device_ringtone">Використовувати мелодію дзвінка пристрою</string>
   <string name="pref_vibrate_on_incoming_calls">Вібрування під час вхідного виклику</string>
@@ -384,19 +329,12 @@
   <string name="pref_auto_answer_time">Автовідповідь тривалість (мс)</string>
   <string name="pref_rfc2833_dtmf">Відправити у потоці DTMFs (RFC2833)</string>
   <string name="pref_sipinfo_dtmf">Відправити поза потоком DTMFs (SIP INFO)</string>
-  <string name="pref_call_timeout_title">Час очікування виклику (у секундах)</string>
-  <string name="pref_voice_mail">URI голосової пошти</string>
-  <string name="pref_dialer_call">Використовувати Linphone у якости типового застосунку для дзвінків.</string>
-  <!--Chat settings-->
+    <string name="pref_voice_mail">URI голосової пошти</string>
+    <!--Chat settings-->
   <string name="pref_chat_title">Чат</string>
   <string name="pref_image_sharing_server_title">Сервер обміну</string>
   <string name="pref_image_sharing_server_desc">Не змінюйте, якщо ви не знаєте, що робите!</string>
-  <string name="pref_use_lime_encryption">Використовувати шифрування LIME</string>
-  <string name="lime_encryption_entry_disabled">Відімкнено</string>
-  <string name="lime_encryption_entry_mandatory">Обов\'язково</string>
-  <string name="lime_encryption_entry_preferred">Бажано</string>
-  <string name="lime_encryption_enable_zrtp">LIME потребує шифрування ZRTP.\nПри активації LIME ви автоматично активуєте шифрування ZRTP.</string>
-  <string name="pref_auto_download_policy_title">Політика самозавантаження вхідних файлів</string>
+    <string name="pref_auto_download_policy_title">Політика самозавантаження вхідних файлів</string>
   <string name="pref_auto_download_max_size_title">Щонайбільший розмір (у байтах)</string>
   <string name="pref_auto_download_disabled">Ніколи</string>
   <string name="pref_auto_download_always">Завжди</string>
@@ -404,34 +342,25 @@
   <!--Network settings-->
   <string name="pref_network_title">Мережа</string>
   <string name="pref_wifi_only">Використовувати лише WiFi</string>
-  <string name="pref_doze_mode">Режим Doze</string>
-  <string name="pref_stun_server">Сервер STUN / TURN</string>
+    <string name="pref_stun_server">Сервер STUN / TURN</string>
   <string name="pref_ice_enable">Увімкнути ICE</string>
   <string name="pref_turn_enable">Увімкнути TURN</string>
   <string name="pref_turn_username_title">Ім\'я користувача STUN / TURN (необов\'язково)</string>
   <string name="pref_turn_passwd_title">Пароль STUN / TURN (необов\'язково)</string>
-  <string name="pref_upnp_enable">Увімкнути UPNP</string>
-  <string name="pref_transport_use_random_ports">Використовувати випадковий порт</string>
+    <string name="pref_transport_use_random_ports">Використовувати випадковий порт</string>
   <string name="pref_sip_port_title">SIP порт зайнято</string>
-  <string name="pref_video_port_title">Відео порт або діапазон портів</string>
-  <string name="pref_audio_port_title">Авдіо порт або діапазон портів</string>
-  <string name="pref_video_port_description">Відео порт або діапазон портів (мінімум-максимум)</string>
-  <string name="pref_audio_port_description">Авдіо порт або діапазон портів (мінімум-максимум)</string>
-  <string name="pref_media_encryption">Шифрування потоку</string>
+    <string name="pref_media_encryption">Шифрування потоку</string>
   <string name="pref_push_notification">Увімкнути push-сповіщення</string>
   <string name="pref_ipv6_title">Дозволити IPv6</string>
   <string name="pref_protected_settings_title">Налаштування застосунків із захистом від батареї</string>
   <string name="pref_protected_settings_desc">Цей застосунок має бути увімкнений для отримання push-сповіщень</string>
   <!--Advanced settings-->
   <string name="pref_advanced_title">Додатково</string>
-  <string name="pref_debug_title">Зневадження</string>
-  <string name="pref_debug">Зневадження</string>
+    <string name="pref_debug">Зневадження</string>
   <string name="pref_java_debug">Використовувати Java-реєстратор</string>
   <string name="pref_friendlist_subscribe">Підписка</string>
   <string name="pref_background_mode">Тловий режим</string>
-  <string name="pref_animation_enable_title">Увімкнути анімацію</string>
-  <string name="pref_service_notification">Увімкнути сервісне сповіщення</string>
-  <string name="pref_autostart">Запуск під час завантаження</string>
+    <string name="pref_autostart">Запуск під час завантаження</string>
   <string name="pref_incoming_call_timeout_title">Відхилення вхідного виклику (у секундах)</string>
   <string name="pref_remote_provisioning_title">Віддалене конфігурування</string>
   <string name="pref_android_app_settings_title">Параметри додатку в Android</string>
@@ -440,12 +369,7 @@
   <string name="pref_display_name_title">Показуване ім\'я</string>
   <string name="pref_user_name_title">Ім\'я користувача</string>
   <!--Audio hack settings-->
-  <string name="pref_audio_hacks_title">Авдіо хаки</string>
-  <string name="pref_audio_use_specific_mode_title">Використовувати хаки певного режиму</string>
-  <string name="pref_audio_use_specific_mode_summary">0=MODE_NORMAL (default), 2=MODE_IN_CALL</string>
-  <string name="pref_audio_hacks_use_routing_api_title">Використовувати хак API маршрутизації</string>
-  <string name="pref_audio_hacks_use_galaxys_hack_title">Використовувати авдіо хак Galaxy S</string>
-  <!--Device specifics-->
+    <!--Device specifics-->
   <string name="device_power_saver_dialog_title">Виявлено енергозбереження!</string>
   <string name="device_power_saver_dialog_message">Здається, на вашому пристрої увімкнено енергозбереження. Для того щоб застосунок міг приймати дзвінки й повідомлення у тловому режимі за допомогою push-сповіщень, його має бути включено до білого переліку.</string>
   <string name="device_power_saver_dialog_button_go_to_settings">Налаштування</string>
@@ -469,23 +393,16 @@
   <string name="content_description_call">Виклик</string>
   <string name="content_description_backspace">Повернення</string>
   <string name="content_description_chat">Чат</string>
-  <string name="content_description_dial_back">Перетелефонувати</string>
-  <string name="content_description_dialer_back">Повернутися до номеронабирача</string>
-  <string name="content_description_contact_picture">Зображення контакту</string>
-  <string name="content_description_send_message">Відправити повідомлення</string>
+    <string name="content_description_dialer_back">Повернутися до номеронабирача</string>
+    <string name="content_description_send_message">Відправити повідомлення</string>
   <string name="content_description_detail">Докладніше</string>
   <string name="content_description_delete">Вилучити</string>
   <string name="content_description_add">Додати виклик</string>
   <string name="content_description_new_discussion">Нова дискусія</string>
-  <string name="content_description_search">Пошук</string>
-  <string name="content_description_search_contact">Пошук контакту</string>
-  <string name="content_description_search_country">Пошук країни</string>
-  <string name="content_description_all_contacts">Усі контакти</string>
+    <string name="content_description_all_contacts">Усі контакти</string>
   <string name="content_description_linphone_contacts">Контакти Linphone</string>
   <string name="content_description_call_direction">Напрямок виклику</string>
-  <string name="content_description_all_calls">Усі виклики</string>
-  <string name="content_description_missed_calls">Пропущені виклики</string>
-  <string name="content_description_switch_video">Перемкнути відео</string>
+    <string name="content_description_switch_video">Перемкнути відео</string>
   <string name="content_description_add_call">Додати виклик</string>
   <string name="content_description_pause">Павза</string>
   <string name="content_description_numpad">Цифрова набірниця</string>

@@ -3,32 +3,25 @@
   <!--Custom-->
   <string name="app_name">Linphone</string>
   <string name="service_name">Linphone Palvelin</string>
-  <string name="addressbook_label">Linphone</string>
-  <string name="notification_title">Linphone</string>
-  <string name="wait_dialog_text">Käynnistetään</string>
-  <string name="tunnel_host"></string>
-  <string name="sync_account_name">linphone yhteystiedot</string>
+    <string name="sync_account_name">linphone yhteystiedot</string>
   <!--Notifications-->
   <!--Common-->
   <string name="username">Käyttäjätunnus</string>
   <string name="phone_number">Puhelin numero</string>
-  <string name="display_name">Näytä nimi</string>
-  <string name="password">Salasana</string>
+    <string name="password">Salasana</string>
   <string name="confirm_password">Salasanan vahvistus</string>
   <string name="domain">Domain eli verkkotunnus</string>
   <string name="remote_provisioning_url">Url eli verkko-osoite</string>
   <string name="email">Sähköposti</string>
   <string name="delete_text">Haluatko varmasti poistaa sinun valintasi?</string>
   <string name="delete">Poista</string>
-  <string name="retry">Uudelleen yritä</string>
-  <string name="cancel">Peruuta</string>
+    <string name="cancel">Peruuta</string>
   <string name="accept">Hyväksy</string>
   <string name="continue_text">Jatka</string>
   <string name="about">Tietoja</string>
   <string name="deny">Hylkää</string>
   <string name="no_account">Tiliä ei ole muokattu</string>
-  <string name="search">Hae</string>
-  <string name="outgoing">Lähtevä</string>
+    <string name="outgoing">Lähtevä</string>
   <string name="incoming">Saapuva</string>
   <string name="missed">Vastaamaton</string>
   <string name="settings">Asetukset</string>
@@ -42,8 +35,7 @@
   <string name="welcome">Tervetuloa</string>
   <string name="assistant">Avustaja</string>
   <string name="assistant_create_account">Luo tili</string>
-  <string name="assistant_continue">Jatka</string>
-  <string name="assistant_remote_provisioning_desc">Anna puhelun yhteyden luomistietojen url-osoite</string>
+    <string name="assistant_remote_provisioning_desc">Anna puhelun yhteyden luomistietojen url-osoite</string>
   <string name="transport">Siirrä</string>
   <string name="assistant_login_linphone">Käytä Linphone tiliä</string>
   <string name="assistant_login_generic">Käytä SIP tiliä</string>
@@ -61,10 +53,8 @@
   <string name="wizard_failed">Tapahtui virhe, yritä uudelleen myöhemmin.</string>
   <string name="wizard_server_unavailable">Palvelin tavoittamattomissa, tarkista internet yhteytesi.</string>
   <string name="wizard_username_incorrect">Sinun käyttäjätunnus ei ole kelvollinen.</string>
-  <string name="wizard_email_incorrect">Sähkpostisi ei ole kelvollinen.</string>
-  <string name="wizard_passwords_unmatched">Antamasi salasanat ovat erillaiset.</string>
-  <string name="setup_confirm_username">Sinun käyttäjätunnus tulee olemaan %s.\r\n\r\nIt voiden muuttua, jotta vaatiukset täyttyisivät .\r\nHyväksytkö?</string>
-  <string name="first_launch_no_login_password">Anna käyttäjätunnus ja salasana</string>
+    <string name="wizard_passwords_unmatched">Antamasi salasanat ovat erillaiset.</string>
+    <string name="first_launch_no_login_password">Anna käyttäjätunnus ja salasana</string>
   <!--Status-->
   <!--In-app-->
   <!--Dailer-->
@@ -72,36 +62,22 @@
   <!--History-->
   <string name="no_call_history">Puheluita ei ole ollut</string>
   <string name="no_missed_call_history">Ei vastaamattomia puheluita</string>
-  <string name="delete_history_log">Haluatko poistaa valitun historian?</string>
-  <string name="today">Tänään</string>
+    <string name="today">Tänään</string>
   <string name="yesterday">Eilen</string>
   <!--Contacts-->
   <string name="no_contact">Osoitekirjassasi ei ole yhteystietoja.</string>
   <string name="no_sip_contact">Osoitekirjassasi ei ole SIP yhteystietoja.</string>
-  <string name="delete_contacts">Haluatko poistaa valitun yhteystiedon?</string>
-  <string name="delete_contact">Haluatko poistaa valitun yhteystiedon?</string>
-  <string name="sip_address">SIP osoite</string>
+    <string name="sip_address">SIP osoite</string>
   <string name="contact_first_name">Etunimi</string>
   <string name="contact_last_name">Sukunimi</string>
   <!--Chat-->
   <string name="no_chat_history">Ei keskusteluja</string>
-  <string name="delete_conversation">Haluatko poistaa valitut keskustelut?</string>
-  <string name="delete_message">Haluatko oistaa valitut viestit?</string>
-  <string name="share_picture_size_small">Pieni</string>
-  <string name="share_picture_size_medium">Keskikokoinen</string>
-  <string name="share_picture_size_large">Iso</string>
-  <string name="share_picture_size_real">Todellisen kokoinen</string>
-  <string name="text_copied_to_clipboard">Teksti kopiotu leikepydälle</string>
-  <string name="copy_text">Kopio teksti</string>
+    <string name="copy_text">Kopio teksti</string>
   <string name="image_picker_title">Valitse lähde</string>
-  <string name="image_saved">Kuva tallennettu</string>
-  <string name="image_not_saved">Virhe, kuvaa ei tallennettu</string>
-  <string name="processing_image">Käsittelee kuvaa, voi kestää muutamia sekuntteja tiedoston koosta riippuen</string>
-  <string name="add_to_contacts">Lisää kontrastia</string>
+    <string name="add_to_contacts">Lisää kontrastia</string>
   <string name="download_file">Lataa</string>
   <!--Status Bar-->
-  <string name="voicemail_unread">lukemattomia viestejä</string>
-  <!--Side Menu-->
+    <!--Side Menu-->
   <string name="menu_assistant">Avustaja</string>
   <string name="menu_settings">Asetukset</string>
   <string name="menu_about">Tietoja</string>
@@ -111,8 +87,7 @@
   <string name="outgoing_call">lähtevä puhelu</string>
   <string name="no_current_call">Ei aktiivisia puheluita</string>
   <string name="couldnt_accept_call">Virhe puhelua ottaessa</string>
-  <string name="unknown_incoming_call_name">Tuntematon</string>
-  <string name="call_stats_audio">Ääni</string>
+    <string name="call_stats_audio">Ääni</string>
   <string name="call_stats_video">Video</string>
   <string name="call_stats_codec">Koodekki:</string>
   <string name="call_stats_upload">Lähetyskaistanleveys:</string>
@@ -127,22 +102,18 @@
   <string name="incall_notif_active">Äänellinen puhelu meneillään</string>
   <string name="incall_notif_paused">Puhelu laitettu tauolle</string>
   <string name="incall_notif_video">Video puhelu meneillään</string>
-  <string name="notification_started">aloitettu</string>
-  <string name="unread_messages">%i lukematonta viestiä</string>
+    <string name="unread_messages">%i lukematonta viestiä</string>
   <!--Errors-->
   <string name="skipable_error_service_not_ready">Varoitus: palvelu ei ole vielä valmis</string>
   <string name="error">Virhe</string>
-  <string name="warning_wrong_destination_address">%s osoitteeseen ei voi tehdä määränpäätä</string>
-  <string name="error_unknown">tuntematon virhe</string>
+    <string name="error_unknown">tuntematon virhe</string>
   <string name="error_call_declined">Puhelu evätty</string>
   <string name="error_user_not_found">Käyttäjää ei löydy</string>
   <string name="error_incompatible_media">Epäsopivat media raja-arvot</string>
   <string name="error_network_unreachable">Verkko on tavoittamattomissa</string>
-  <string name="error_bad_credentials">Huonot kirjautumistiedot</string>
-  <string name="error_unauthorized">Luvaton</string>
+    <string name="error_unauthorized">Luvaton</string>
   <string name="error_io_error">Verkko virhe</string>
-  <string name="download_image_failed">Lataus epäonnistui. Pyydän tarkista internet yhteys tai yritä uudelleen.</string>
-  <string name="remote_provisioning_again_title">Vastapuoli hakee asetuksia</string>
+    <string name="remote_provisioning_again_title">Vastapuoli hakee asetuksia</string>
   <string name="remote_provisioning_again_message">Haluatko vaihtaa tukiaseman URI-osoitetta?</string>
   <!--Account Settings-->
   <string name="pref_sipaccount">SIP Tili</string>
@@ -153,8 +124,7 @@
   <string name="pref_passwd">Salasana*</string>
   <string name="pref_username">Käyttäjätunnus*</string>
   <string name="pref_enable_outbound_proxy">Lähtevä välityspalvelin</string>
-  <string name="pref_help_proxy">SIP välityspalvelimen solmuntunnus tai ip osoite (valinnainen)</string>
-  <string name="pref_help_outbound_proxy">Lähetä kaikki puhelut SIP välityspalvelimen kautta</string>
+    <string name="pref_help_outbound_proxy">Lähetä kaikki puhelut SIP välityspalvelimen kautta</string>
   <string name="pref_help_username">Esimerkki: jaakko jos tilisi on jaakko@sip.esimerkki.org</string>
   <string name="pref_help_domain">sip.esimerkki.org jos tilisi on jaakko@sip.esimerkki.org</string>
   <string name="pref_help_password">Sinun täytyy antaa uudelleen salasana jos muokkaat käyttäjätunnusta tai domainia eli verkkotunnusta</string>
@@ -176,8 +146,7 @@
   <!--Settings-->
   <string name="pref_sipaccounts">SIP Tilit</string>
   <string name="default_account_flag">Vakio tili</string>
-  <string name="pref_add_account">Lisää tili</string>
-  <string name="pref_tunnel_title">Tunneli</string>
+    <string name="pref_tunnel_title">Tunneli</string>
   <string name="pref_tunnel_host">Hostname \'eli verkkotunnuksen etunimi\'</string>
   <string name="pref_tunnel_port">Portti</string>
   <string name="pref_tunnel_mode">Tila</string>
@@ -205,8 +174,7 @@
   <string name="pref_codecs">Kodekit</string>
   <!--Video settings-->
   <string name="pref_video_title">Video</string>
-  <string name="pref_video_use_front_camera_title">Käytä etukameraa</string>
-  <string name="pref_video_initiate_call_with_video_title">Aloita puhelut videokuvapuheluina</string>
+    <string name="pref_video_initiate_call_with_video_title">Aloita puhelut videokuvapuheluina</string>
   <string name="pref_video_initiate_call_with_video">Lähetä aina pyyntö videoon</string>
   <string name="pref_video_automatically_accept_video_title">Hyväksy saapuvat video kuvan pyynnöt</string>
   <string name="pref_video_automatically_accept_video">Hyväksy aina video kuvan pyynnöt</string>
@@ -214,8 +182,7 @@
   <string name="pref_preferred_video_size">Toivottu videon koko</string>
   <string name="pref_preferred_fps">Toivottu FPS \'kuvaa per sekuntti\'</string>
   <string name="pref_bandwidth_limit">Kaistaleveys raja kbits/s</string>
-  <string name="pref_video_codecs_title">Kodekit</string>
-  <!--Call settings-->
+    <!--Call settings-->
   <string name="pref_call_title">Puhelu</string>
   <string name="pref_voice_mail">Ääni postin URI-osoite</string>
   <!--Chat settings-->
@@ -225,35 +192,23 @@
   <string name="pref_network_title">Verkko</string>
   <string name="pref_wifi_only">Käytä vain wifiä</string>
   <string name="pref_ice_enable">Salli ICE</string>
-  <string name="pref_upnp_enable">Salli UPNP</string>
-  <string name="pref_transport_use_random_ports">Käytä satunnaista porttia</string>
+    <string name="pref_transport_use_random_ports">Käytä satunnaista porttia</string>
   <string name="pref_sip_port_title">SIP portti käytössä</string>
-  <string name="pref_video_port_title">Video portti tai portin alue</string>
-  <string name="pref_audio_port_title">Ääni portti tai portin alue</string>
-  <string name="pref_video_port_description">Video portti tai portin alue (pienin portti - suurin portti)</string>
-  <string name="pref_audio_port_description">Ääni portti tai portin alue (pienin portti - suurin portti)</string>
-  <string name="pref_media_encryption">Median salaus</string>
+    <string name="pref_media_encryption">Median salaus</string>
   <string name="pref_push_notification">Salli painettavat ilmoitukset</string>
   <string name="pref_ipv6_title">Salli IPv6</string>
   <!--Advanced settings-->
   <string name="pref_advanced_title">Kehittyneet</string>
-  <string name="pref_debug_title">Virheen korjaus</string>
-  <string name="pref_debug">Virheen korjaus</string>
+    <string name="pref_debug">Virheen korjaus</string>
   <string name="pref_background_mode">Toimi taustalla</string>
-  <string name="pref_animation_enable_title">Salli animaatiot</string>
-  <string name="pref_autostart">Käynnistä laitteen käynnistyessä</string>
+    <string name="pref_autostart">Käynnistä laitteen käynnistyessä</string>
   <string name="pref_incoming_call_timeout_title">Saapuva puhelu aikakatkaisu (sekunneissa)</string>
   <string name="pref_remote_provisioning_title">Vastapuoli hakee asetuksia</string>
   <string name="pref_primary_account_title">Pääasiallinen tili</string>
   <string name="pref_display_name_title">Näytä nimi</string>
   <string name="pref_user_name_title">Käyttäjätunnus</string>
   <!--Audio hack settings-->
-  <string name="pref_audio_hacks_title">Äänen miksaus</string>
-  <string name="pref_audio_use_specific_mode_title">Käytä tiettyä ääni tilaa</string>
-  <string name="pref_audio_use_specific_mode_summary">0=NORMAALI_TILA (vakio), 2=SOITTO_TILA</string>
-  <string name="pref_audio_hacks_use_routing_api_title">Käytä ohjaavaa API/\'ohjelmointi käskypohjan\' muunelmaa</string>
-  <string name="pref_audio_hacks_use_galaxys_hack_title">Käytä Galaxy S ääni miksausta</string>
-  <!--Device specifics-->
+    <!--Device specifics-->
   <string name="device_power_saver_dialog_button_go_to_settings">Asetukset</string>
   <!--Debug popup-->
   <string name="debug_popup_title">Virheen korjaus</string>
@@ -271,20 +226,15 @@
   <string name="content_description_call">Puhelu</string>
   <string name="content_description_backspace">Askelpalautin</string>
   <string name="content_description_chat">Keskustelu</string>
-  <string name="content_description_dial_back">Soita takaisin</string>
-  <string name="content_description_contact_picture">Yhteys kuva</string>
-  <string name="content_description_send_message">Lähetä viesti</string>
+    <string name="content_description_send_message">Lähetä viesti</string>
   <string name="content_description_detail">Yksityiskohdat</string>
   <string name="content_description_delete">Poista</string>
   <string name="content_description_add">Lisää puhelu</string>
   <string name="content_description_new_discussion">Uusi keskustelu</string>
-  <string name="content_description_search">Hae</string>
-  <string name="content_description_all_contacts">Kaikki yhteystiedot</string>
+    <string name="content_description_all_contacts">Kaikki yhteystiedot</string>
   <string name="content_description_linphone_contacts">Linphone yhteystiedot</string>
   <string name="content_description_call_direction">Saapuva vai lähtevä puhelu</string>
-  <string name="content_description_all_calls">Kaikki puhelut</string>
-  <string name="content_description_missed_calls">Vastaamattomat puhelut</string>
-  <string name="content_description_switch_video">Kytke video</string>
+    <string name="content_description_switch_video">Kytke video</string>
   <string name="content_description_add_call">Lisää puhelu</string>
   <string name="content_description_pause">Laita tauolle</string>
   <string name="content_description_numpad">Numeronäppäimet</string>

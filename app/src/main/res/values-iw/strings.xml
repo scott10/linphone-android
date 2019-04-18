@@ -1,14 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Custom-->
-  <string name="tunnel_host"></string>
-  <!--Notifications-->
+    <!--Notifications-->
   <!--Common-->
   <string name="username">שם משתמש</string>
   <string name="password">סיסמה</string>
   <string name="delete">מחק</string>
-  <string name="retry">נסה שוב</string>
-  <string name="cancel">ביטול</string>
+    <string name="cancel">ביטול</string>
   <string name="accept">קבל</string>
   <string name="continue_text">המשך</string>
   <string name="about">אודות</string>
@@ -19,8 +17,7 @@
   <string name="yes">כן</string>
   <!--Launch screen-->
   <!--Assistant-->
-  <string name="assistant_continue">המשך</string>
-  <string name="transport">טרנספורט</string>
+    <string name="transport">טרנספורט</string>
   <!--Status-->
   <!--In-app-->
   <!--Dailer-->
@@ -35,8 +32,7 @@
   <string name="menu_settings">הגדרות</string>
   <string name="menu_about">אודות</string>
   <!--Call-->
-  <string name="unknown_incoming_call_name">לא מוכר</string>
-  <string name="call_stats_audio">שמע</string>
+    <string name="call_stats_audio">שמע</string>
   <string name="call_stats_video">וידאו</string>
   <string name="call_stats_codec">קודק:</string>
   <string name="call">קריאה</string>
@@ -59,8 +55,7 @@
   <!--Settings-->
   <string name="pref_sipaccounts">חשבונות SIP</string>
   <string name="default_account_flag">חשבון שגרתי</string>
-  <string name="pref_add_account">הוסף חשבון</string>
-  <string name="pref_tunnel_host">שם מארח</string>
+    <string name="pref_tunnel_host">שם מארח</string>
   <string name="pref_tunnel_port">פורט</string>
   <string name="pref_tunnel_mode">מצב</string>
   <!--do not change order without changing corresponding entry_values in non_localizable_strings.xml-->
@@ -79,12 +74,10 @@
   <!--Network settings-->
   <string name="pref_network_title">רשת</string>
   <string name="pref_ice_enable">אפשר ICE</string>
-  <string name="pref_upnp_enable">אפשר UPNP</string>
-  <string name="pref_media_encryption">הצפנת מדיה</string>
+    <string name="pref_media_encryption">הצפנת מדיה</string>
   <!--Advanced settings-->
   <string name="pref_advanced_title">מתקדם</string>
-  <string name="pref_animation_enable_title">אפשר הנפשות</string>
-  <string name="pref_user_name_title">שם משתמש</string>
+    <string name="pref_user_name_title">שם משתמש</string>
   <!--Audio hack settings-->
   <!--Device specifics-->
   <string name="device_power_saver_dialog_button_go_to_settings">הגדרות</string>
